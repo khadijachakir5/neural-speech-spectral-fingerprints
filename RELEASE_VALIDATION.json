@@ -1,0 +1,267 @@
+{
+  "pass": true,
+  "n_checks": 52,
+  "n_failed": 0,
+  "checks": [
+    {
+      "name": "package version",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "scientific protocol unchanged",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "481 inferential bins",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "H2 unadjusted",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "H2 five multilingual generators",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "H3b five Pearson/Holm tests",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "H4 locked conjunctive rule",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "H4 final status",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "only codec exploratory BH signal",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "partial physical audit represented honestly",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "canonical exists: H1_CONTROLLED_DATASETS_481BINS_FINAL_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "compile: H1_CONTROLLED_DATASETS_481BINS_FINAL_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "canonical exists: Q1_03_MLAAD_GENERATOR_STABILITY_v2_NEW_STORY.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "compile: Q1_03_MLAAD_GENERATOR_STABILITY_v2_NEW_STORY.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "canonical exists: Q1_07_LIBRISEVOC_FALSE_PAIR_v3_NEW_STORY.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "compile: Q1_07_LIBRISEVOC_FALSE_PAIR_v3_NEW_STORY.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "canonical exists: H2_CROSS_LANGUAGE_FINAL_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "compile: H2_CROSS_LANGUAGE_FINAL_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "canonical exists: H3A_CONTROLLED_FROM_RAW_FINAL_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "compile: H3A_CONTROLLED_FROM_RAW_FINAL_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "canonical exists: H3_FINAL_MANUSCRIPT_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "compile: H3_FINAL_MANUSCRIPT_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "canonical exists: H4_GLOBAL_CONFIRMATORY_FINAL_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "compile: H4_GLOBAL_CONFIRMATORY_FINAL_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "canonical exists: H4_FAMILY_SPECIFIC_EXPLORATORY_FINAL_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "compile: H4_FAMILY_SPECIFIC_EXPLORATORY_FINAL_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "canonical exists: MASTER_Q1_MANUSCRIPT_FINAL_v3_2.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "compile: MASTER_Q1_MANUSCRIPT_FINAL_v3_2.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "canonical exists: GENERATE_SELECTED_MANUSCRIPT_FIGURES.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "compile: GENERATE_SELECTED_MANUSCRIPT_FIGURES.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "superseded excluded: H3_FINAL_RECOVERY_AND_COMPLETION_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "superseded excluded: H4_FINAL_RECOVERY_AND_COMPLETION_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "superseded excluded: H4_EXPLORATORY_DEEP_DIVE_v1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "superseded excluded: COLAB_FINAL_FIGURES_2_TO_6_REFERENCE.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "superseded excluded: MASTER_Q1_NEW_STORY_v3_1.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "superseded excluded: STEP_00_FULL_PAIRING_AUDIT_v2_CANONICAL.py",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "figure: Fig1_pipeline.pdf",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "figure: Fig2_H1_content_reproducibility_bars.pdf",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "figure: Fig3_H2_cross_language_bars.pdf",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "figure: Fig4a_H3_checkpoint_conceptual.pdf",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "figure: Fig4b_H3_nominal_null_histograms.pdf",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "figure: Fig5_H4_family_organization.pdf",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "figure: Fig6_H4_adjusted_profiles_by_family.pdf",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "single canonical paper chain",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "no synthetic A2Z raw chain",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "supplementary MLAAD control explicit",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "RELAXED H4 sensitivity explicit and non-primary",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "no incomplete physical audit stage",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "no PARTIAL_SUPPORT in canonical engines",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "no 513-bin inferential lock",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "README audit caveat",
+      "pass": true,
+      "note": ""
+    },
+    {
+      "name": "README notebook-provenance boundary",
+      "pass": true,
+      "note": ""
+    }
+  ]
+}
